@@ -1,0 +1,18 @@
+---
+type: officials
+title: Enyiada Cookey-Gam
+description: lga_chairman (APP)
+resource: https://app.ournigeria.ng/officials/enyiada-cookey-gam
+tags: [app, elected]
+timestamp: 2026-06-28T22:57:38.561Z
+officialType: elected
+party: app
+completeness: 0.1
+---
+# Enyiada Cookey-Gam
+
+> lga_chairman (APP) · [APP](/parties/app.md)
+
+## Political Career
+
+- **lga_chairman**, 2024–present, [APP](/parties/app.md)

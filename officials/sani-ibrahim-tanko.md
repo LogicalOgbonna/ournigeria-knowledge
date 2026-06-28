@@ -1,0 +1,22 @@
+---
+type: officials
+title: Sani Ibrahim Tanko
+description: rep (PDP)
+resource: https://app.ournigeria.ng/officials/sani-ibrahim-tanko
+tags: [pdp, elected]
+timestamp: 2026-06-28T22:57:38.561Z
+officialType: elected
+party: pdp
+completeness: 0.6
+---
+# Sani Ibrahim Tanko
+
+> rep (PDP) · [PDP](/parties/pdp.md)
+
+## Biography
+
+Member of the House of Representatives representing Bauchi Shira Giade Federal Constituency in the 10th National Assembly.
+
+## Political Career
+
+- **rep**, 2023–present, [PDP](/parties/pdp.md)

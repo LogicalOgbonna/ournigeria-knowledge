@@ -1,0 +1,18 @@
+---
+type: officials
+title: Badamasi Olatunde Taofeek
+description: mha (APC)
+resource: https://app.ournigeria.ng/officials/badamasi-olatunde-taofeek-2
+tags: [apc, elected]
+timestamp: 2026-06-28T22:57:38.561Z
+officialType: elected
+party: apc
+completeness: 0.1
+---
+# Badamasi Olatunde Taofeek
+
+> mha (APC) · [APC](/parties/apc.md)
+
+## Political Career
+
+- **mha**, 2023–present, [APC](/parties/apc.md)

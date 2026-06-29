@@ -2,9 +2,9 @@
 type: parties
 title: Accord Party
 description: Nigerian political party (Accord)
-resource: https://app.ournigeria.ng/parties/accord
+resource: https://ournigeria.ng/parties/accord
 tags: [accord]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 acronym: Accord
 active: true
 ---

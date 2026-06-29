@@ -2,9 +2,9 @@
 type: officials
 title: Mohammed Umar Bago
 description: governor (APC)
-resource: https://app.ournigeria.ng/officials/mohammed-umar-bago
+resource: https://ournigeria.ng/officials/mohammed-umar-bago
 tags: [niger, apc, elected]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 state: niger
 party: apc

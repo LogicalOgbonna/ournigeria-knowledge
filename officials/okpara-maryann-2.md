@@ -2,9 +2,9 @@
 type: officials
 title: Okpara Maryann
 description: mha (ADC)
-resource: https://app.ournigeria.ng/officials/okpara-maryann-2
+resource: https://ournigeria.ng/officials/okpara-maryann-2
 tags: [adc, elected]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 party: adc
 completeness: 0.1

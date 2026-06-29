@@ -2,9 +2,9 @@
 type: officials
 title: Abejide Joseph Leke
 description: rep (ADC)
-resource: https://app.ournigeria.ng/officials/abejide-joseph-leke
+resource: https://ournigeria.ng/officials/abejide-joseph-leke
 tags: [adc, elected]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 party: adc
 completeness: 0.7

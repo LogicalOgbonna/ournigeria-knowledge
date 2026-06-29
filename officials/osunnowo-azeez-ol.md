@@ -2,9 +2,9 @@
 type: officials
 title: OSUNNOWO AZEEZ OL
 description: councilor (APC)
-resource: https://app.ournigeria.ng/officials/osunnowo-azeez-ol
+resource: https://ournigeria.ng/officials/osunnowo-azeez-ol
 tags: [ogun, apc, elected, ward:erunwon]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 state: ogun
 party: apc

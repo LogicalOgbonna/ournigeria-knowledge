@@ -2,9 +2,9 @@
 type: officials
 title: SANYAOLU ISMAIL OLUWAJUWON
 description: councilor (APC)
-resource: https://app.ournigeria.ng/officials/sanyaolu-ismail-oluwajuwon
+resource: https://ournigeria.ng/officials/sanyaolu-ismail-oluwajuwon
 tags: [ogun, apc, elected, ward:ake-ii]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 state: ogun
 party: apc

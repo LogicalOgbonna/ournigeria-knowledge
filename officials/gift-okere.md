@@ -2,9 +2,9 @@
 type: officials
 title: Gift Okere
 description: lga_chairman (APP)
-resource: https://app.ournigeria.ng/officials/gift-okere
+resource: https://ournigeria.ng/officials/gift-okere
 tags: [app, elected]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 party: app
 completeness: 0.1

@@ -2,9 +2,9 @@
 type: officials
 title: OSIBANJO ADELEKE SOLOMON
 description: councilor (APC)
-resource: https://app.ournigeria.ng/officials/osibanjo-adeleke-solomon
+resource: https://ournigeria.ng/officials/osibanjo-adeleke-solomon
 tags: [ogun, apc, elected, ward:atan-imuku]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 state: ogun
 party: apc

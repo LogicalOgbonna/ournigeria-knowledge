@@ -2,9 +2,9 @@
 type: lgas
 title: Patigi
 description: Local Government Area in Kwara
-resource: https://app.ournigeria.ng/lgas/kwara-pategi
+resource: https://ournigeria.ng/states/kwara/patigi
 tags: [kwara]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 state: kwara
 code: kwara_pategi
 ---

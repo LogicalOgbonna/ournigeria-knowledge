@@ -2,9 +2,9 @@
 type: officials
 title: Innocent Uruakpa
 description: lga_chairman (ZLP)
-resource: https://app.ournigeria.ng/officials/innocent-uruakpa
+resource: https://ournigeria.ng/officials/innocent-uruakpa
 tags: [zlp, elected]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 party: zlp
 completeness: 0.1

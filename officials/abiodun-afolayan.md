@@ -2,9 +2,9 @@
 type: officials
 title: Abiodun Afolayan
 description: councilor
-resource: https://app.ournigeria.ng/officials/abiodun-afolayan
+resource: https://ournigeria.ng/officials/abiodun-afolayan
 tags: [kwara, elected, ward:omu-aran-11-ihaye]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 state: kwara
 completeness: 0.1

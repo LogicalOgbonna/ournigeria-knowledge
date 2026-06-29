@@ -2,9 +2,9 @@
 type: lgas
 title: Ihitte/Uboma
 description: Local Government Area in Imo
-resource: https://app.ournigeria.ng/lgas/imo-ihitte-uboma
+resource: https://ournigeria.ng/states/imo/ihitte-uboma
 tags: [imo]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 state: imo
 code: imo_ihitte_uboma
 ---

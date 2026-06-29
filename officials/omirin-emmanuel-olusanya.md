@@ -2,9 +2,9 @@
 type: officials
 title: Omirin Emmanuel Olusanya
 description: rep (PDP)
-resource: https://app.ournigeria.ng/officials/omirin-emmanuel-olusanya
+resource: https://ournigeria.ng/officials/omirin-emmanuel-olusanya
 tags: [pdp, elected]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 party: pdp
 completeness: 0.3

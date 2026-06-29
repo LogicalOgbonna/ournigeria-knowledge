@@ -2,9 +2,9 @@
 type: officials
 title: Mohammed Idris Miya
 description: lga_chairman (PDP)
-resource: https://app.ournigeria.ng/officials/mohammed-idris-miya
+resource: https://ournigeria.ng/officials/mohammed-idris-miya
 tags: [pdp, elected]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 party: pdp
 completeness: 0.1

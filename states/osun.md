@@ -2,9 +2,9 @@
 type: states
 title: Osun
 description: Nigerian state, capital Osogbo
-resource: https://app.ournigeria.ng/states/osun
+resource: https://ournigeria.ng/states/osun
 tags: [osun]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 capital: Osogbo
 zone: South West
 ---

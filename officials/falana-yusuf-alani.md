@@ -2,9 +2,9 @@
 type: officials
 title: FALANA YUSUF ALANI
 description: councilor (APC)
-resource: https://app.ournigeria.ng/officials/falana-yusuf-alani
+resource: https://ournigeria.ng/officials/falana-yusuf-alani
 tags: [ogun, apc, elected, ward:imasai]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 state: ogun
 party: apc

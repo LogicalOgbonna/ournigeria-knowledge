@@ -2,9 +2,9 @@
 type: officials
 title: Salawu Ibrahim Muda
 description: mha (AA)
-resource: https://app.ournigeria.ng/officials/salawu-ibrahim-muda-2
+resource: https://ournigeria.ng/officials/salawu-ibrahim-muda-2
 tags: [aa, elected]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 party: aa
 completeness: 0.1

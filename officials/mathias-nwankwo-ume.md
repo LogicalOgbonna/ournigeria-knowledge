@@ -2,9 +2,9 @@
 type: officials
 title: Mathias Nwankwo Ume
 description: mha (LP)
-resource: https://app.ournigeria.ng/officials/mathias-nwankwo-ume
+resource: https://ournigeria.ng/officials/mathias-nwankwo-ume
 tags: [lp, elected]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 party: lp
 completeness: 0.21

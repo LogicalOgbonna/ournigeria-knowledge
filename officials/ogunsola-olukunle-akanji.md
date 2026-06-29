@@ -2,9 +2,9 @@
 type: officials
 title: OGUNSOLA OLUKUNLE AKANJI
 description: councilor (APC)
-resource: https://app.ournigeria.ng/officials/ogunsola-olukunle-akanji
+resource: https://ournigeria.ng/officials/ogunsola-olukunle-akanji
 tags: [ogun, apc, elected, ward:idogo]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 state: ogun
 party: apc

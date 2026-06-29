@@ -2,9 +2,9 @@
 type: officials
 title: ADEBOYE HARUNA ADE
 description: councilor (APC)
-resource: https://app.ournigeria.ng/officials/adeboye-haruna-ade
+resource: https://ournigeria.ng/officials/adeboye-haruna-ade
 tags: [ogun, apc, elected, ward:iseri]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 state: ogun
 party: apc

@@ -2,9 +2,9 @@
 type: lgas
 title: Ipokia
 description: Local Government Area in Ogun
-resource: https://app.ournigeria.ng/lgas/ogun-ipokia
+resource: https://ournigeria.ng/states/ogun/ipokia
 tags: [ogun]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 state: ogun
 code: ogun_ipokia
 ---

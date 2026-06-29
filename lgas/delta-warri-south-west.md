@@ -2,9 +2,9 @@
 type: lgas
 title: Warri South West
 description: Local Government Area in Delta
-resource: https://app.ournigeria.ng/lgas/delta-warri-south-west
+resource: https://ournigeria.ng/states/delta/warri-south-west
 tags: [delta]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 state: delta
 code: delta_warri_south_west
 ---

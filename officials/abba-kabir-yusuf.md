@@ -2,9 +2,9 @@
 type: officials
 title: Abba Kabir Yusuf
 description: governor (NNPP)
-resource: https://app.ournigeria.ng/officials/abba-kabir-yusuf
+resource: https://ournigeria.ng/officials/abba-kabir-yusuf
 tags: [kano, nnpp, elected]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 state: kano
 party: nnpp

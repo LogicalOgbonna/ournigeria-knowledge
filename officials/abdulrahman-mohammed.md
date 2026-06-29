@@ -2,9 +2,9 @@
 type: officials
 title: Abdulrahman Mohammed
 description: elected
-resource: https://app.ournigeria.ng/officials/abdulrahman-mohammed
+resource: https://ournigeria.ng/officials/abdulrahman-mohammed
 tags: [elected]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 completeness: 0.21
 ---

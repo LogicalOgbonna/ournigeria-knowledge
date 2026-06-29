@@ -2,9 +2,9 @@
 type: officials
 title: AJAYI ADEKUNLE ABDUL-LATEEF
 description: councilor (APC)
-resource: https://app.ournigeria.ng/officials/ajayi-adekunle-abdul-lateef
+resource: https://ournigeria.ng/officials/ajayi-adekunle-abdul-lateef
 tags: [ogun, apc, elected, ward:owode]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 state: ogun
 party: apc

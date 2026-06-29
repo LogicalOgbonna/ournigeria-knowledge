@@ -2,9 +2,9 @@
 type: officials
 title: Yusuf Abdulwaheed Gbenga
 description: mha (APC)
-resource: https://app.ournigeria.ng/officials/yusuf-abdulwaheed-gbenga
+resource: https://ournigeria.ng/officials/yusuf-abdulwaheed-gbenga
 tags: [apc, elected]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 party: apc
 completeness: 0.21

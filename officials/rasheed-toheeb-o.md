@@ -2,9 +2,9 @@
 type: officials
 title: Rasheed Toheeb O.
 description: councilor
-resource: https://app.ournigeria.ng/officials/rasheed-toheeb-o
+resource: https://ournigeria.ng/officials/rasheed-toheeb-o
 tags: [kwara, elected, ward:igboidun]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 state: kwara
 completeness: 0.1

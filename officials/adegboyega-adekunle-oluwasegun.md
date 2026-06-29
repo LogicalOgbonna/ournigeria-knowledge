@@ -2,9 +2,9 @@
 type: officials
 title: ADEGBOYEGA ADEKUNLE OLUWASEGUN
 description: councilor (APC)
-resource: https://app.ournigeria.ng/officials/adegboyega-adekunle-oluwasegun
+resource: https://ournigeria.ng/officials/adegboyega-adekunle-oluwasegun
 tags: [ogun, apc, elected, ward:ode-i]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 state: ogun
 party: apc

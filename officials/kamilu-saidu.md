@@ -2,9 +2,9 @@
 type: officials
 title: Kamilu Sa'idu
 description: mha (APC)
-resource: https://app.ournigeria.ng/officials/kamilu-saidu
+resource: https://ournigeria.ng/officials/kamilu-saidu
 tags: [apc, elected]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 party: apc
 completeness: 0.21

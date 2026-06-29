@@ -2,9 +2,9 @@
 type: officials
 title: OLOYEDE AKEEM AREMU
 description: councilor (APC)
-resource: https://app.ournigeria.ng/officials/oloyede-akeem-aremu
+resource: https://ournigeria.ng/officials/oloyede-akeem-aremu
 tags: [ogun, apc, elected, ward:moloko-asipa]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 state: ogun
 party: apc

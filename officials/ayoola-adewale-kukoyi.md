@@ -2,9 +2,9 @@
 type: officials
 title: AYOOLA ADEWALE KUKOYI
 description: councilor (APC)
-resource: https://app.ournigeria.ng/officials/ayoola-adewale-kukoyi
+resource: https://ournigeria.ng/officials/ayoola-adewale-kukoyi
 tags: [ogun, apc, elected, ward:imosan]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 state: ogun
 party: apc

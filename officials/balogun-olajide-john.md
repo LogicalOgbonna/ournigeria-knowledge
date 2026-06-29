@@ -2,9 +2,9 @@
 type: officials
 title: BALOGUN OLAJIDE JOHN
 description: councilor (APC)
-resource: https://app.ournigeria.ng/officials/balogun-olajide-john
+resource: https://ournigeria.ng/officials/balogun-olajide-john
 tags: [ogun, apc, elected, ward:idofa]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 state: ogun
 party: apc

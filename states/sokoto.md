@@ -2,9 +2,9 @@
 type: states
 title: Sokoto
 description: Nigerian state, capital Sokoto
-resource: https://app.ournigeria.ng/states/sokoto
+resource: https://ournigeria.ng/states/sokoto
 tags: [sokoto]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 capital: Sokoto
 zone: North West
 ---

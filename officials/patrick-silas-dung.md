@@ -2,9 +2,9 @@
 type: officials
 title: Patrick Silas Dung
 description: lga_chairman (PDP)
-resource: https://app.ournigeria.ng/officials/patrick-silas-dung
+resource: https://ournigeria.ng/officials/patrick-silas-dung
 tags: [pdp, elected]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 party: pdp
 completeness: 0.1

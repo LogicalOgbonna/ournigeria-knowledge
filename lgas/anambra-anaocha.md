@@ -2,9 +2,9 @@
 type: lgas
 title: Anaocha
 description: Local Government Area in Anambra
-resource: https://app.ournigeria.ng/lgas/anambra-anaocha
+resource: https://ournigeria.ng/states/anambra/anaocha
 tags: [anambra]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 state: anambra
 code: anambra_anaocha
 ---

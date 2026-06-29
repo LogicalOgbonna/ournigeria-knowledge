@@ -2,9 +2,9 @@
 type: officials
 title: AJIBOLA MORUF AYODEJI
 description: councilor (APC)
-resource: https://app.ournigeria.ng/officials/ajibola-moruf-ayodeji
+resource: https://ournigeria.ng/officials/ajibola-moruf-ayodeji
 tags: [ogun, apc, elected, ward:ita-osin-olomore]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 state: ogun
 party: apc

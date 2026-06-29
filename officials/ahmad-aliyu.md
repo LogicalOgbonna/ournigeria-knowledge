@@ -2,9 +2,9 @@
 type: officials
 title: Ahmad Aliyu
 description: governor (APC)
-resource: https://app.ournigeria.ng/officials/ahmad-aliyu
+resource: https://ournigeria.ng/officials/ahmad-aliyu
 tags: [sokoto, apc, elected]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 state: sokoto
 party: apc

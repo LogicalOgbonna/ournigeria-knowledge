@@ -2,9 +2,9 @@
 type: officials
 title: SHOBOGUN ADEYEMI OLASUNKANMI
 description: councilor (APC)
-resource: https://app.ournigeria.ng/officials/shobogun-adeyemi-olasunkanmi
+resource: https://ournigeria.ng/officials/shobogun-adeyemi-olasunkanmi
 tags: [ogun, apc, elected, ward:ososun]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 state: ogun
 party: apc

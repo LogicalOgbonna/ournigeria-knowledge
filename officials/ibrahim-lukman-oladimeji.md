@@ -2,9 +2,9 @@
 type: officials
 title: IBRAHIM LUKMAN OLADIMEJI
 description: councilor (APC)
-resource: https://app.ournigeria.ng/officials/ibrahim-lukman-oladimeji
+resource: https://ournigeria.ng/officials/ibrahim-lukman-oladimeji
 tags: [ogun, apc, elected, ward:ilaro-iii]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 state: ogun
 party: apc

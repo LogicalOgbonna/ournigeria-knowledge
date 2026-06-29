@@ -2,9 +2,9 @@
 type: lgas
 title: Ndokwa West
 description: Local Government Area in Delta
-resource: https://app.ournigeria.ng/lgas/delta-ndokwa-west
+resource: https://ournigeria.ng/states/delta/ndokwa-west
 tags: [delta]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 state: delta
 code: delta_ndokwa_west
 ---

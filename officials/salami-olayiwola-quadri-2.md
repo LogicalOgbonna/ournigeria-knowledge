@@ -2,9 +2,9 @@
 type: officials
 title: SALAMI OLAYIWOLA QUADRI
 description: councilor (APC)
-resource: https://app.ournigeria.ng/officials/salami-olayiwola-quadri-2
+resource: https://ournigeria.ng/officials/salami-olayiwola-quadri-2
 tags: [ogun, apc, elected, ward:ijasi-idepo]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 state: ogun
 party: apc

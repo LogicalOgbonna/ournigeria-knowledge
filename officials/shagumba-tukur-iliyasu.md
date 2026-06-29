@@ -2,9 +2,9 @@
 type: officials
 title: Shagumba Tukur Iliyasu
 description: elected
-resource: https://app.ournigeria.ng/officials/shagumba-tukur-iliyasu
+resource: https://ournigeria.ng/officials/shagumba-tukur-iliyasu
 tags: [elected]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 completeness: 0.1
 ---

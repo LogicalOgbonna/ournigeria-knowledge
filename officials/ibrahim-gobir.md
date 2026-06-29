@@ -2,9 +2,9 @@
 type: officials
 title: Ibrahim Gobir
 description: senator (APC)
-resource: https://app.ournigeria.ng/officials/ibrahim-gobir
+resource: https://ournigeria.ng/officials/ibrahim-gobir
 tags: [apc, elected]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 party: apc
 completeness: 0.5

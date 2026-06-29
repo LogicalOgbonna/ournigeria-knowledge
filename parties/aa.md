@@ -2,9 +2,9 @@
 type: parties
 title: Action Alliance
 description: Nigerian political party (AA)
-resource: https://app.ournigeria.ng/parties/aa
+resource: https://ournigeria.ng/parties/aa
 tags: [aa]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 acronym: AA
 active: true
 ---

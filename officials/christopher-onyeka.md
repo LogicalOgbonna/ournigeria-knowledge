@@ -2,9 +2,9 @@
 type: officials
 title: Christopher Onyeka
 description: councilor
-resource: https://app.ournigeria.ng/officials/christopher-onyeka
+resource: https://ournigeria.ng/officials/christopher-onyeka
 tags: [imo, elected, ward:elelem-obike]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 state: imo
 completeness: 0.1

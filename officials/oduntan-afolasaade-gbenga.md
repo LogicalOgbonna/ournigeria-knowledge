@@ -2,9 +2,9 @@
 type: officials
 title: ODUNTAN AFOLASAADE GBENGA
 description: councilor (APC)
-resource: https://app.ournigeria.ng/officials/oduntan-afolasaade-gbenga
+resource: https://ournigeria.ng/officials/oduntan-afolasaade-gbenga
 tags: [ogun, apc, elected, ward:ogbo-moraika-ita-epo-ii]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 state: ogun
 party: apc

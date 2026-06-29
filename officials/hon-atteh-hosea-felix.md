@@ -2,9 +2,9 @@
 type: officials
 title: Hon. Atteh Hosea Felix
 description: councilor (APC)
-resource: https://app.ournigeria.ng/officials/hon-atteh-hosea-felix
+resource: https://ournigeria.ng/officials/hon-atteh-hosea-felix
 tags: [kaduna, apc, ward:afogo]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 state: kaduna
 party: apc
 completeness: 0

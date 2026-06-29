@@ -2,9 +2,9 @@
 type: states
 title: Kwara
 description: Nigerian state, capital Ilorin
-resource: https://app.ournigeria.ng/states/kwara
+resource: https://ournigeria.ng/states/kwara
 tags: [kwara]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 capital: Ilorin
 zone: North Central
 ---

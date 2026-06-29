@@ -2,9 +2,9 @@
 type: officials
 title: Orji Uzor Kalu
 description: senator (APC)
-resource: https://app.ournigeria.ng/officials/orji-uzor-kalu
+resource: https://ournigeria.ng/officials/orji-uzor-kalu
 tags: [apc, elected]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 party: apc
 completeness: 0.7

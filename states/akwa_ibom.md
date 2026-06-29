@@ -2,9 +2,9 @@
 type: states
 title: Akwa Ibom
 description: Nigerian state, capital Uyo
-resource: https://app.ournigeria.ng/states/akwa_ibom
+resource: https://ournigeria.ng/states/akwa_ibom
 tags: [akwa_ibom]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 capital: Uyo
 zone: South South
 ---

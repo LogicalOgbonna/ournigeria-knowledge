@@ -2,9 +2,9 @@
 type: officials
 title: Suleiman Mohammed Kabir
 description: mha (APC)
-resource: https://app.ournigeria.ng/officials/suleiman-mohammed-kabir
+resource: https://ournigeria.ng/officials/suleiman-mohammed-kabir
 tags: [apc, elected]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 party: apc
 completeness: 0.21

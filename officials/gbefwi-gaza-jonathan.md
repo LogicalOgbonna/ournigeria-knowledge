@@ -2,9 +2,9 @@
 type: officials
 title: Gbefwi Gaza Jonathan
 description: rep (SDP)
-resource: https://app.ournigeria.ng/officials/gbefwi-gaza-jonathan
+resource: https://ournigeria.ng/officials/gbefwi-gaza-jonathan
 tags: [sdp, elected]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 party: sdp
 completeness: 0.7

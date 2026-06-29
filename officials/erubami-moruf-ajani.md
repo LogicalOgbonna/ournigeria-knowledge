@@ -2,9 +2,9 @@
 type: officials
 title: ERUBAMI MORUF AJANI
 description: councilor (APC)
-resource: https://app.ournigeria.ng/officials/erubami-moruf-ajani
+resource: https://ournigeria.ng/officials/erubami-moruf-ajani
 tags: [ogun, apc, elected, ward:isaga-ilewo]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 state: ogun
 party: apc

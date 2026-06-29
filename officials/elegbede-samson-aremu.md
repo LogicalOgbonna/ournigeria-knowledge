@@ -2,9 +2,9 @@
 type: officials
 title: ELEGBEDE SAMSON AREMU
 description: councilor (APC)
-resource: https://app.ournigeria.ng/officials/elegbede-samson-aremu
+resource: https://ournigeria.ng/officials/elegbede-samson-aremu
 tags: [ogun, apc, elected, ward:oke-odan]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 state: ogun
 party: apc

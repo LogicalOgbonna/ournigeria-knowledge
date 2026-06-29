@@ -2,9 +2,9 @@
 type: officials
 title: JOLAOSO OLUSEGUN OMOYEMI
 description: councilor (APC)
-resource: https://app.ournigeria.ng/officials/jolaoso-olusegun-omoyemi
+resource: https://ournigeria.ng/officials/jolaoso-olusegun-omoyemi
 tags: [ogun, apc, elected, ward:orile-oko]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 state: ogun
 party: apc

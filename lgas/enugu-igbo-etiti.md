@@ -2,9 +2,9 @@
 type: lgas
 title: Igbo Etiti
 description: Local Government Area in Enugu
-resource: https://app.ournigeria.ng/lgas/enugu-igbo-etiti
+resource: https://ournigeria.ng/states/enugu/igbo-etiti
 tags: [enugu]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 state: enugu
 code: enugu_igbo_etiti
 ---

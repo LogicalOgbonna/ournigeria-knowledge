@@ -2,9 +2,9 @@
 type: parties
 title: Peoples Democratic Party
 description: Nigerian political party (PDP)
-resource: https://app.ournigeria.ng/parties/pdp
+resource: https://ournigeria.ng/parties/pdp
 tags: [pdp]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 acronym: PDP
 active: true
 ---

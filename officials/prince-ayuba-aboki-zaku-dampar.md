@@ -2,9 +2,9 @@
 type: officials
 title: Prince Ayuba Aboki Zaku Dampar
 description: rep (APC)
-resource: https://app.ournigeria.ng/officials/prince-ayuba-aboki-zaku-dampar
+resource: https://ournigeria.ng/officials/prince-ayuba-aboki-zaku-dampar
 tags: [apc, elected]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 party: apc
 completeness: 0.3

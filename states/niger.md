@@ -2,9 +2,9 @@
 type: states
 title: Niger
 description: Nigerian state, capital Minna
-resource: https://app.ournigeria.ng/states/niger
+resource: https://ournigeria.ng/states/niger
 tags: [niger]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 capital: Minna
 zone: North Central
 ---

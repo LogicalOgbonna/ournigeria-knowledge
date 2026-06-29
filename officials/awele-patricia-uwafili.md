@@ -2,9 +2,9 @@
 type: officials
 title: Awele Patricia Uwafili
 description: councilor
-resource: https://app.ournigeria.ng/officials/awele-patricia-uwafili
+resource: https://ournigeria.ng/officials/awele-patricia-uwafili
 tags: [delta, elected, ward:ezi]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 state: delta
 completeness: 0.1

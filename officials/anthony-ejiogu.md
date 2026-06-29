@@ -2,9 +2,9 @@
 type: officials
 title: Anthony Ejiogu
 description: councilor (ZLP)
-resource: https://app.ournigeria.ng/officials/anthony-ejiogu
+resource: https://ournigeria.ng/officials/anthony-ejiogu
 tags: [abia, zlp, elected, ward:eziama]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 state: abia
 party: zlp

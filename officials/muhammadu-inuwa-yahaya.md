@@ -2,9 +2,9 @@
 type: officials
 title: Muhammadu Inuwa Yahaya
 description: governor (APC)
-resource: https://app.ournigeria.ng/officials/muhammadu-inuwa-yahaya
+resource: https://ournigeria.ng/officials/muhammadu-inuwa-yahaya
 tags: [gombe, apc, elected]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 state: gombe
 party: apc

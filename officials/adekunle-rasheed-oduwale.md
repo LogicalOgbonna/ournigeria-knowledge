@@ -2,9 +2,9 @@
 type: officials
 title: ADEKUNLE RASHEED ODUWALE
 description: councilor (APC)
-resource: https://app.ournigeria.ng/officials/adekunle-rasheed-oduwale
+resource: https://ournigeria.ng/officials/adekunle-rasheed-oduwale
 tags: [ogun, apc, elected, ward:ilisan-ii]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 state: ogun
 party: apc

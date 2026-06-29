@@ -2,9 +2,9 @@
 type: officials
 title: Uba Sani
 description: governor (APC)
-resource: https://app.ournigeria.ng/officials/uba-sani
+resource: https://ournigeria.ng/officials/uba-sani
 tags: [kaduna, apc, elected]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 state: kaduna
 party: apc

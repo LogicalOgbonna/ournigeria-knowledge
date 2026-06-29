@@ -2,9 +2,9 @@
 type: officials
 title: SAHEED OLUWASEUN ARIYIBI
 description: councilor (APC)
-resource: https://app.ournigeria.ng/officials/saheed-oluwaseun-ariyibi
+resource: https://ournigeria.ng/officials/saheed-oluwaseun-ariyibi
 tags: [ogun, apc, elected, ward:oba]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 state: ogun
 party: apc

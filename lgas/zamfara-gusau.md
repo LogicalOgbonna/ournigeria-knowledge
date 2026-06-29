@@ -2,9 +2,9 @@
 type: lgas
 title: Gusau
 description: Local Government Area in Zamfara
-resource: https://app.ournigeria.ng/lgas/zamfara-gusau
+resource: https://ournigeria.ng/states/zamfara/gusau
 tags: [zamfara]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 state: zamfara
 code: zamfara_gusau
 ---

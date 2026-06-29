@@ -2,9 +2,9 @@
 type: officials
 title: ADENAIKE CLEMENT OLUSESAN
 description: councilor (APC)
-resource: https://app.ournigeria.ng/officials/adenaike-clement-olusesan
+resource: https://ournigeria.ng/officials/adenaike-clement-olusesan
 tags: [ogun, apc, elected, ward:itamapako]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 state: ogun
 party: apc

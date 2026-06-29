@@ -2,9 +2,9 @@
 type: officials
 title: FASEYI AKINDELE ADESUJI
 description: councilor (APC)
-resource: https://app.ournigeria.ng/officials/faseyi-akindele-adesuji
+resource: https://ournigeria.ng/officials/faseyi-akindele-adesuji
 tags: [ogun, apc, elected, ward:itele]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 state: ogun
 party: apc

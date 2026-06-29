@@ -2,9 +2,9 @@
 type: lgas
 title: Mai'Adua
 description: Local Government Area in Katsina
-resource: https://app.ournigeria.ng/lgas/katsina-maiadua
+resource: https://ournigeria.ng/states/katsina/mai-adua
 tags: [katsina]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 state: katsina
 code: katsina_maiadua
 ---

@@ -2,9 +2,9 @@
 type: states
 title: Gombe
 description: Nigerian state, capital Gombe
-resource: https://app.ournigeria.ng/states/gombe
+resource: https://ournigeria.ng/states/gombe
 tags: [gombe]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 capital: Gombe
 zone: North East
 ---

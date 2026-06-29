@@ -2,9 +2,9 @@
 type: lgas
 title: Etung
 description: Local Government Area in Cross River
-resource: https://app.ournigeria.ng/lgas/cross-river-etung
+resource: https://ournigeria.ng/states/cross_river/etung
 tags: [cross_river]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 state: cross_river
 code: cross_river_etung
 ---

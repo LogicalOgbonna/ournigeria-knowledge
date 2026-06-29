@@ -2,9 +2,9 @@
 type: officials
 title: ALU KEMI IDIAT
 description: elected
-resource: https://app.ournigeria.ng/officials/alu-kemi-idiat
+resource: https://ournigeria.ng/officials/alu-kemi-idiat
 tags: [elected]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 completeness: 0.1
 ---

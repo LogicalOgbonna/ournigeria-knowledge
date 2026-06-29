@@ -2,9 +2,9 @@
 type: states
 title: Imo
 description: Nigerian state, capital Owerri
-resource: https://app.ournigeria.ng/states/imo
+resource: https://ournigeria.ng/states/imo
 tags: [imo]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 capital: Owerri
 zone: South East
 ---

@@ -2,9 +2,9 @@
 type: officials
 title: Benson Agadaga
 description: senator (PDP)
-resource: https://app.ournigeria.ng/officials/benson-agadaga
+resource: https://ournigeria.ng/officials/benson-agadaga
 tags: [pdp, elected]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 party: pdp
 completeness: 0.5

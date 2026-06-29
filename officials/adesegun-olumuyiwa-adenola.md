@@ -2,9 +2,9 @@
 type: officials
 title: ADESEGUN OLUMUYIWA ADENOLA
 description: councilor (APC)
-resource: https://app.ournigeria.ng/officials/adesegun-olumuyiwa-adenola
+resource: https://ournigeria.ng/officials/adesegun-olumuyiwa-adenola
 tags: [ogun, apc, elected, ward:ago-iwoye-i]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 state: ogun
 party: apc

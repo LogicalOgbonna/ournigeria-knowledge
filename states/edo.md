@@ -2,9 +2,9 @@
 type: states
 title: Edo
 description: Nigerian state, capital Benin City
-resource: https://app.ournigeria.ng/states/edo
+resource: https://ournigeria.ng/states/edo
 tags: [edo]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 capital: Benin City
 zone: South South
 ---

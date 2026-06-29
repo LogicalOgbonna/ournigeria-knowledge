@@ -2,9 +2,9 @@
 type: officials
 title: OGBODU BABATUNDE JOHN
 description: councilor (APC)
-resource: https://app.ournigeria.ng/officials/ogbodu-babatunde-john
+resource: https://ournigeria.ng/officials/ogbodu-babatunde-john
 tags: [ogun, apc, elected, ward:ogbere]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 state: ogun
 party: apc

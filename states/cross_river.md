@@ -2,9 +2,9 @@
 type: states
 title: Cross River
 description: Nigerian state, capital Calabar
-resource: https://app.ournigeria.ng/states/cross_river
+resource: https://ournigeria.ng/states/cross_river
 tags: [cross_river]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 capital: Calabar
 zone: South South
 ---

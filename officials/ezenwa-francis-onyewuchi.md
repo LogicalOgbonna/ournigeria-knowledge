@@ -2,9 +2,9 @@
 type: officials
 title: Ezenwa Francis Onyewuchi
 description: senator (LP)
-resource: https://app.ournigeria.ng/officials/ezenwa-francis-onyewuchi
+resource: https://ournigeria.ng/officials/ezenwa-francis-onyewuchi
 tags: [lp, elected]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 party: lp
 completeness: 0.6

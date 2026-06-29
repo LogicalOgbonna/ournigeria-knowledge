@@ -2,9 +2,9 @@
 type: parties
 title: African Democratic Congress
 description: Nigerian political party (ADC)
-resource: https://app.ournigeria.ng/parties/adc
+resource: https://ournigeria.ng/parties/adc
 tags: [adc]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 acronym: ADC
 active: true
 ---

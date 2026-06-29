@@ -2,9 +2,9 @@
 type: officials
 title: Abu Ibrahim Bossan
 description: elected
-resource: https://app.ournigeria.ng/officials/abu-ibrahim-bossan
+resource: https://ournigeria.ng/officials/abu-ibrahim-bossan
 tags: [elected]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 completeness: 0.21
 ---

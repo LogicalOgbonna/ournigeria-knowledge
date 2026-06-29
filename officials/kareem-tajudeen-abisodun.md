@@ -2,9 +2,9 @@
 type: officials
 title: Kareem Tajudeen Abisodun
 description: rep (APC)
-resource: https://app.ournigeria.ng/officials/kareem-tajudeen-abisodun
+resource: https://ournigeria.ng/officials/kareem-tajudeen-abisodun
 tags: [apc, elected]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 party: apc
 completeness: 0.6

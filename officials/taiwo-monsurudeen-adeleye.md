@@ -2,9 +2,9 @@
 type: officials
 title: TAIWO MONSURUDEEN ADELEYE
 description: councilor (APC)
-resource: https://app.ournigeria.ng/officials/taiwo-monsurudeen-adeleye
+resource: https://ournigeria.ng/officials/taiwo-monsurudeen-adeleye
 tags: [ogun, apc, elected, ward:oke-ago-owu]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 state: ogun
 party: apc

@@ -2,9 +2,9 @@
 type: officials
 title: Odu Chukwuka Joel
 description: councilor
-resource: https://app.ournigeria.ng/officials/odu-chukwuka-joel
+resource: https://ournigeria.ng/officials/odu-chukwuka-joel
 tags: [delta, elected, ward:ukwu-nzu]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 state: delta
 completeness: 0.1

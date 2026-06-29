@@ -2,9 +2,9 @@
 type: officials
 title: BELLO KEHINDE ABDULAZEEZ
 description: councilor (APC)
-resource: https://app.ournigeria.ng/officials/bello-kehinde-abdulazeez
+resource: https://ournigeria.ng/officials/bello-kehinde-abdulazeez
 tags: [ogun, apc, elected, ward:ibogun]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 state: ogun
 party: apc

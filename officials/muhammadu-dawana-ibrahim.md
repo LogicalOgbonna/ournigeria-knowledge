@@ -2,9 +2,9 @@
 type: officials
 title: Muhammadu Dawana ibrahim
 description: councilor (PDP)
-resource: https://app.ournigeria.ng/officials/muhammadu-dawana-ibrahim
+resource: https://ournigeria.ng/officials/muhammadu-dawana-ibrahim
 tags: [katsina, pdp, elected, ward:kusa]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 state: katsina
 party: pdp

@@ -2,9 +2,9 @@
 type: parties
 title: All Progressives Congress
 description: Nigerian political party (APC)
-resource: https://app.ournigeria.ng/parties/apc
+resource: https://ournigeria.ng/parties/apc
 tags: [apc]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 acronym: APC
 active: true
 ---

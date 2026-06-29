@@ -2,9 +2,9 @@
 type: officials
 title: Ibikunle Simon Idowu
 description: mha (ADC)
-resource: https://app.ournigeria.ng/officials/ibikunle-simon-idowu
+resource: https://ournigeria.ng/officials/ibikunle-simon-idowu
 tags: [adc, elected]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 party: adc
 completeness: 0.21

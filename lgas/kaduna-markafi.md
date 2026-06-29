@@ -2,9 +2,9 @@
 type: lgas
 title: Makarfi
 description: Local Government Area in Kaduna
-resource: https://app.ournigeria.ng/lgas/kaduna-markafi
+resource: https://ournigeria.ng/states/kaduna/makarfi
 tags: [kaduna]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 state: kaduna
 code: kaduna_markafi
 ---

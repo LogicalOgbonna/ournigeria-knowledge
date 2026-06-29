@@ -2,9 +2,9 @@
 type: lgas
 title: Aniocha North
 description: Local Government Area in Delta
-resource: https://app.ournigeria.ng/lgas/delta-aniocha-north
+resource: https://ournigeria.ng/states/delta/aniocha-north
 tags: [delta]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 state: delta
 code: delta_aniocha_north
 ---

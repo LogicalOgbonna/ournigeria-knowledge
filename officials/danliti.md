@@ -2,9 +2,9 @@
 type: officials
 title: Danliti
 description: councilor (APC)
-resource: https://app.ournigeria.ng/officials/danliti
+resource: https://ournigeria.ng/officials/danliti
 tags: [katsina, apc, elected, ward:maiadua-c]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 state: katsina
 party: apc

@@ -2,9 +2,9 @@
 type: lgas
 title: Gboko
 description: Local Government Area in Benue
-resource: https://app.ournigeria.ng/lgas/benue-gboko
+resource: https://ournigeria.ng/states/benue/gboko
 tags: [benue]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 state: benue
 code: benue_gboko
 ---

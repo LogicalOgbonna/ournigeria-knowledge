@@ -2,9 +2,9 @@
 type: officials
 title: Kamilu ado
 description: councilor (ADC)
-resource: https://app.ournigeria.ng/officials/kamilu-ado
+resource: https://ournigeria.ng/officials/kamilu-ado
 tags: [kano, adc, elected, ward:kwas]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 state: kano
 party: adc

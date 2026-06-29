@@ -2,9 +2,9 @@
 type: officials
 title: Jeremiah Ishaku
 description: mha (AAC)
-resource: https://app.ournigeria.ng/officials/jeremiah-ishaku
+resource: https://ournigeria.ng/officials/jeremiah-ishaku
 tags: [aac, elected]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 party: aac
 completeness: 0.1

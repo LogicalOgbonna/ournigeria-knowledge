@@ -2,9 +2,9 @@
 type: officials
 title: Usman Ali
 description: councilor (APP)
-resource: https://app.ournigeria.ng/officials/usman-ali
+resource: https://ournigeria.ng/officials/usman-ali
 tags: [jigawa, app, elected, ward:buntusu]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 state: jigawa
 party: app

@@ -2,9 +2,9 @@
 type: officials
 title: Seyi Makinde
 description: governor (PDP)
-resource: https://app.ournigeria.ng/officials/seyi-makinde
+resource: https://ournigeria.ng/officials/seyi-makinde
 tags: [oyo, pdp, elected]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 state: oyo
 party: pdp

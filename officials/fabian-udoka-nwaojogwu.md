@@ -2,9 +2,9 @@
 type: officials
 title: Fabian Udoka Nwaojogwu
 description: councilor
-resource: https://app.ournigeria.ng/officials/fabian-udoka-nwaojogwu
+resource: https://ournigeria.ng/officials/fabian-udoka-nwaojogwu
 tags: [delta, elected, ward:issele-uku-i]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 state: delta
 completeness: 0.1

@@ -2,9 +2,9 @@
 type: parties
 title: Peoples Redemption Party
 description: Nigerian political party (PRP)
-resource: https://app.ournigeria.ng/parties/prp
+resource: https://ournigeria.ng/parties/prp
 tags: [prp]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 acronym: PRP
 active: true
 ---

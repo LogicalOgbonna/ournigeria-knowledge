@@ -2,9 +2,9 @@
 type: officials
 title: Olajide Adedeji Stanley
 description: rep (PDP)
-resource: https://app.ournigeria.ng/officials/olajide-adedeji-stanley
+resource: https://ournigeria.ng/officials/olajide-adedeji-stanley
 tags: [pdp, elected]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 party: pdp
 completeness: 0.7

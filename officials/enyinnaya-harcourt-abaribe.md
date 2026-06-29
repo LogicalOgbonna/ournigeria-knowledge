@@ -2,9 +2,9 @@
 type: officials
 title: Enyinnaya Harcourt Abaribe
 description: senator (APGA)
-resource: https://app.ournigeria.ng/officials/enyinnaya-harcourt-abaribe
+resource: https://ournigeria.ng/officials/enyinnaya-harcourt-abaribe
 tags: [apga, elected]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 party: apga
 completeness: 0.7

@@ -2,9 +2,9 @@
 type: lgas
 title: Owo
 description: Local Government Area in Ondo
-resource: https://app.ournigeria.ng/lgas/ondo-owo
+resource: https://ournigeria.ng/states/ondo/owo
 tags: [ondo]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 state: ondo
 code: ondo_owo
 ---

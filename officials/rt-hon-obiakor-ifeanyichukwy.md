@@ -2,9 +2,9 @@
 type: officials
 title: Rt Hon obiakor IFEANYICHUKWY
 description: councilor (APC)
-resource: https://app.ournigeria.ng/officials/rt-hon-obiakor-ifeanyichukwy
+resource: https://ournigeria.ng/officials/rt-hon-obiakor-ifeanyichukwy
 tags: [enugu, apc, elected, ward:achiuno-i]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 state: enugu
 party: apc

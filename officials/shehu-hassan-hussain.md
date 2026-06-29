@@ -2,9 +2,9 @@
 type: officials
 title: Shehu Hassan Hussain
 description: rep (NNPP)
-resource: https://app.ournigeria.ng/officials/shehu-hassan-hussain
+resource: https://ournigeria.ng/officials/shehu-hassan-hussain
 tags: [nnpp, elected]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 party: nnpp
 completeness: 0.6

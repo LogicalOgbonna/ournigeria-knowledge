@@ -2,9 +2,9 @@
 type: lgas
 title: Irepodun/Ifelodun
 description: Local Government Area in Ekiti
-resource: https://app.ournigeria.ng/lgas/ekiti-irepodun-ifelodun
+resource: https://ournigeria.ng/states/ekiti/irepodun-ifelodun
 tags: [ekiti]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 state: ekiti
 code: ekiti_irepodun_ifelodun
 ---

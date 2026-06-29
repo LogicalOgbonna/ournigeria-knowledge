@@ -2,9 +2,9 @@
 type: officials
 title: Hope Uzodimma
 description: governor (APC)
-resource: https://app.ournigeria.ng/officials/hope-uzodimma
+resource: https://ournigeria.ng/officials/hope-uzodimma
 tags: [imo, apc, elected]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 state: imo
 party: apc

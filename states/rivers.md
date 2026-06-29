@@ -2,9 +2,9 @@
 type: states
 title: Rivers
 description: Nigerian state, capital Port Harcourt
-resource: https://app.ournigeria.ng/states/rivers
+resource: https://ournigeria.ng/states/rivers
 tags: [rivers]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 capital: Port Harcourt
 zone: South South
 ---

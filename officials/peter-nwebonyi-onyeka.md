@@ -2,9 +2,9 @@
 type: officials
 title: Peter Nwebonyi Onyeka
 description: senator (APC)
-resource: https://app.ournigeria.ng/officials/peter-nwebonyi-onyeka
+resource: https://ournigeria.ng/officials/peter-nwebonyi-onyeka
 tags: [apc, elected]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 party: apc
 completeness: 0.3

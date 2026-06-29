@@ -2,9 +2,9 @@
 type: officials
 title: OSENI OMOTAYO RILIWAN
 description: councilor (APC)
-resource: https://app.ournigeria.ng/officials/oseni-omotayo-riliwan
+resource: https://ournigeria.ng/officials/oseni-omotayo-riliwan
 tags: [ogun, apc, elected, ward:simawa-iwelepe]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 state: ogun
 party: apc

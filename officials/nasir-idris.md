@@ -2,9 +2,9 @@
 type: officials
 title: Nasir Idris
 description: governor (APC)
-resource: https://app.ournigeria.ng/officials/nasir-idris
+resource: https://ournigeria.ng/officials/nasir-idris
 tags: [kebbi, apc, elected]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 state: kebbi
 party: apc

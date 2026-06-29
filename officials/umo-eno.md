@@ -2,9 +2,9 @@
 type: officials
 title: Umo Eno
 description: governor (PDP)
-resource: https://app.ournigeria.ng/officials/umo-eno
+resource: https://ournigeria.ng/officials/umo-eno
 tags: [akwa_ibom, pdp, elected]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 state: akwa_ibom
 party: pdp

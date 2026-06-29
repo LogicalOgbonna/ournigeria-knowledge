@@ -2,9 +2,9 @@
 type: parties
 title: Zenith Labour Party
 description: Nigerian political party (ZLP)
-resource: https://app.ournigeria.ng/parties/zlp
+resource: https://ournigeria.ng/parties/zlp
 tags: [zlp]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 acronym: ZLP
 active: true
 ---

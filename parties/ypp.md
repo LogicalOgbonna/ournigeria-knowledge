@@ -2,9 +2,9 @@
 type: parties
 title: Young Progressives Party
 description: Nigerian political party (YPP)
-resource: https://app.ournigeria.ng/parties/ypp
+resource: https://ournigeria.ng/parties/ypp
 tags: [ypp]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 acronym: YPP
 active: true
 ---

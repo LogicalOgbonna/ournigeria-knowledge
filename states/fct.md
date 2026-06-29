@@ -2,9 +2,9 @@
 type: states
 title: FCT
 description: Nigerian state, capital Abuja
-resource: https://app.ournigeria.ng/states/fct
+resource: https://ournigeria.ng/states/fct
 tags: [fct]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 capital: Abuja
 zone: North Central
 ---

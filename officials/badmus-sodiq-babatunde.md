@@ -2,9 +2,9 @@
 type: officials
 title: BADMUS SODIQ BABATUNDE
 description: councilor (APC)
-resource: https://app.ournigeria.ng/officials/badmus-sodiq-babatunde
+resource: https://ournigeria.ng/officials/badmus-sodiq-babatunde
 tags: [ogun, apc, elected, ward:ijebu-ife-i]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 state: ogun
 party: apc

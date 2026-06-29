@@ -2,9 +2,9 @@
 type: officials
 title: Isa Ali J. C.
 description: rep (PDP)
-resource: https://app.ournigeria.ng/officials/isa-ali-j-c
+resource: https://ournigeria.ng/officials/isa-ali-j-c
 tags: [pdp, elected]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 party: pdp
 completeness: 0.6

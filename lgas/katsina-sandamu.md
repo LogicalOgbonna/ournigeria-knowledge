@@ -2,9 +2,9 @@
 type: lgas
 title: Sandamu
 description: Local Government Area in Katsina
-resource: https://app.ournigeria.ng/lgas/katsina-sandamu
+resource: https://ournigeria.ng/states/katsina/sandamu
 tags: [katsina]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 state: katsina
 code: katsina_sandamu
 ---

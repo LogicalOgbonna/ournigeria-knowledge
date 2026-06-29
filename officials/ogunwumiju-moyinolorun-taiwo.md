@@ -2,9 +2,9 @@
 type: officials
 title: Ogunwumiju Moyinolorun Taiwo
 description: mha (APC)
-resource: https://app.ournigeria.ng/officials/ogunwumiju-moyinolorun-taiwo
+resource: https://ournigeria.ng/officials/ogunwumiju-moyinolorun-taiwo
 tags: [apc, elected]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 party: apc
 completeness: 0.21

@@ -2,9 +2,9 @@
 type: lgas
 title: Kebbe
 description: Local Government Area in Sokoto
-resource: https://app.ournigeria.ng/lgas/sokoto-kebbe
+resource: https://ournigeria.ng/states/sokoto/kebbe
 tags: [sokoto]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 state: sokoto
 code: sokoto_kebbe
 ---

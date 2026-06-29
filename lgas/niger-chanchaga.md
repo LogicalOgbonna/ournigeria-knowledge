@@ -2,9 +2,9 @@
 type: lgas
 title: Chanchaga
 description: Local Government Area in Niger
-resource: https://app.ournigeria.ng/lgas/niger-chanchaga
+resource: https://ournigeria.ng/states/niger/chanchaga
 tags: [niger]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 state: niger
 code: niger_chanchaga
 ---

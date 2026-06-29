@@ -2,9 +2,9 @@
 type: officials
 title: RASAQ AKEEM ABOLANLE
 description: councilor (APC)
-resource: https://app.ournigeria.ng/officials/rasaq-akeem-abolanle
+resource: https://ournigeria.ng/officials/rasaq-akeem-abolanle
 tags: [ogun, apc, elected, ward:ososa]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 state: ogun
 party: apc

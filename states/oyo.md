@@ -2,9 +2,9 @@
 type: states
 title: Oyo
 description: Nigerian state, capital Ibadan
-resource: https://app.ournigeria.ng/states/oyo
+resource: https://ournigeria.ng/states/oyo
 tags: [oyo]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 capital: Ibadan
 zone: South West
 ---

@@ -2,9 +2,9 @@
 type: officials
 title: Onibonoje Maruf Olayinka
 description: councilor
-resource: https://app.ournigeria.ng/officials/onibonoje-maruf-olayinka
+resource: https://ournigeria.ng/officials/onibonoje-maruf-olayinka
 tags: [kwara, elected, ward:ubandawaki]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 state: kwara
 completeness: 0.1

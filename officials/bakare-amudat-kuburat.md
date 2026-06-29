@@ -2,9 +2,9 @@
 type: officials
 title: BAKARE AMUDAT KUBURAT
 description: councilor (APC)
-resource: https://app.ournigeria.ng/officials/bakare-amudat-kuburat
+resource: https://ournigeria.ng/officials/bakare-amudat-kuburat
 tags: [ogun, apc, elected, ward:ijebu-ife-ii]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 state: ogun
 party: apc

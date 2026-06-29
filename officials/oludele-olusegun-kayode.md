@@ -2,9 +2,9 @@
 type: officials
 title: OLUDELE OLUSEGUN KAYODE
 description: councilor (APC)
-resource: https://app.ournigeria.ng/officials/oludele-olusegun-kayode
+resource: https://ournigeria.ng/officials/oludele-olusegun-kayode
 tags: [ogun, apc, elected, ward:egbeda]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 state: ogun
 party: apc

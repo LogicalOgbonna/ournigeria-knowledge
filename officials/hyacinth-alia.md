@@ -2,9 +2,9 @@
 type: officials
 title: Hyacinth Alia
 description: governor (APC)
-resource: https://app.ournigeria.ng/officials/hyacinth-alia
+resource: https://ournigeria.ng/officials/hyacinth-alia
 tags: [benue, apc, elected]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 state: benue
 party: apc

@@ -2,9 +2,9 @@
 type: officials
 title: Nimchak Samson Rime
 description: mha (YPP)
-resource: https://app.ournigeria.ng/officials/nimchak-samson-rime-2
+resource: https://ournigeria.ng/officials/nimchak-samson-rime-2
 tags: [ypp, elected]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 party: ypp
 completeness: 0.1

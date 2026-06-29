@@ -2,9 +2,9 @@
 type: lgas
 title: Ogbomoso North
 description: Local Government Area in Oyo
-resource: https://app.ournigeria.ng/lgas/oyo-ogbomosho-north
+resource: https://ournigeria.ng/states/oyo/ogbomoso-north
 tags: [oyo]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 state: oyo
 code: oyo_ogbomosho_north
 ---

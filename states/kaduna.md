@@ -2,9 +2,9 @@
 type: states
 title: Kaduna
 description: Nigerian state, capital Kaduna
-resource: https://app.ournigeria.ng/states/kaduna
+resource: https://ournigeria.ng/states/kaduna
 tags: [kaduna]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 capital: Kaduna
 zone: North West
 ---

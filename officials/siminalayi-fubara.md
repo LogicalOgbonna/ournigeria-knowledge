@@ -2,9 +2,9 @@
 type: officials
 title: Siminalayi Fubara
 description: governor (PDP)
-resource: https://app.ournigeria.ng/officials/siminalayi-fubara
+resource: https://ournigeria.ng/officials/siminalayi-fubara
 tags: [rivers, pdp, elected]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 state: rivers
 party: pdp

@@ -2,9 +2,9 @@
 type: officials
 title: OLAILO GAFAR ADISA
 description: councilor (APC)
-resource: https://app.ournigeria.ng/officials/olailo-gafar-adisa
+resource: https://ournigeria.ng/officials/olailo-gafar-adisa
 tags: [ogun, apc, elected, ward:ido-foi]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 officialType: elected
 state: ogun
 party: apc

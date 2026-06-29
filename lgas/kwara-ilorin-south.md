@@ -2,9 +2,9 @@
 type: lgas
 title: Ilorin South
 description: Local Government Area in Kwara
-resource: https://app.ournigeria.ng/lgas/kwara-ilorin-south
+resource: https://ournigeria.ng/states/kwara/ilorin-south
 tags: [kwara]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 state: kwara
 code: kwara_ilorin_south
 ---

@@ -2,9 +2,9 @@
 type: lgas
 title: Ila
 description: Local Government Area in Osun
-resource: https://app.ournigeria.ng/lgas/osun-ila
+resource: https://ournigeria.ng/states/osun/ila
 tags: [osun]
-timestamp: 2026-06-28T22:57:38.561Z
+timestamp: 2026-06-29T01:57:23.689Z
 state: osun
 code: osun_ila
 ---
